@@ -1,9 +1,6 @@
 ## Dress Fit Prediction
 
-The purpose of this project is to predict whether a dress will fit. A common problem in e-commerce stores is not being able to try on the clothes.
-This will make it easier for the consumer to know whether the dress will fit and ultimately be confident in buying the dress. From a business perspecitve,
-the hopes was to increase sales and decrease returns. 
-
+The goal of this project is to develop a predictive model that determines whether a dress will fit a customer. One of the main challenges in e-commerce is the inability to try on clothing before purchase. This solution aims to give consumers greater confidence in their sizing, making it easier to make informed buying decisions. From a business standpoint, this initiative is designed to boost sales and reduce return rates, ultimately improving customer satisfaction and operational efficiency.
 
 ### Methods Used:
 <ul>
